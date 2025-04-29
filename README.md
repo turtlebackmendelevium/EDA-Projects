@@ -21,22 +21,6 @@ This repository serves as a **central hub** for all my EDA projects, each explor
   - 📁 [`/startup_funding_trends`](./startup_funding_trends/)
   - ▶️ `streamlit run startup_funding_trends/dashboard.py`
 
-# 2. 📺 Amazon Prime Titles (Coming Soon)
-- **Focus**: Content distribution by genre, release year, IMDb ratings.
-- **Dataset**: Amazon Prime titles scraped dataset.
-- **Goals**:
-  - What genres dominate the platform?
-  - When was content production highest?
-  - IMDb rating distribution over time.
-
-# 3. 🧼 Skincare Industry Reddit Analysis (Coming Soon)
-- **Focus**: Consumer sentiment and keyword trends in the skincare niche.
-- **Dataset**: Reddit comments/posts on r/SkincareAddiction and r/AsianBeauty.
-- **Goals**:
-  - Extract key concerns (acne, ingredients, routines).
-  - Sentiment over time.
-  - Community-driven trends.
-
 ---
 
 # 🛠️ Tools Used
